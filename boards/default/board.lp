@@ -145,7 +145,7 @@
   (stroke_text b4f2eba1-9b50-4409-a18e-f38d9013d337 (layer top_names)
    (height 1.0) (stroke_width 0.2) (letter_spacing auto) (line_spacing auto)
    (align center bottom) (position 5.715 27.195) (rotation 0.0)
-   (auto_rotate true) (mirror false) (lock false) (value "{{NAME}}")
+   (auto_rotate true) (mirror false) (lock false) (value "Power")
   )
  )
  (device b11e31a4-12c8-42dc-85b3-8765074712f1
