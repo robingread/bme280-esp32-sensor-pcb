@@ -55,6 +55,7 @@
   (name "LED1") (value "{{MPN or COLOR}}")
   (lock_assembly false)
   (attribute "COLOR" (type string) (unit none) (value "RED"))
+  (attribute "LABEL" (type string) (unit none) (value "MQTT Err"))
   (device 04df0e68-fc25-4586-9215-96531c66c144
    (variant 29602fed-a0ed-4c55-bec7-c976296f05dd)
   )
@@ -132,6 +133,7 @@
   (name "LED3") (value "{{MPN or COLOR}}")
   (lock_assembly false)
   (attribute "COLOR" (type string) (unit none) (value "RED"))
+  (attribute "LABEL" (type string) (unit none) (value "Power"))
   (device 04df0e68-fc25-4586-9215-96531c66c144
    (variant 29602fed-a0ed-4c55-bec7-c976296f05dd)
   )
@@ -230,6 +232,7 @@
   (name "LED2") (value "{{MPN or COLOR}}")
   (lock_assembly false)
   (attribute "COLOR" (type string) (unit none) (value "YELLOW"))
+  (attribute "LABEL" (type string) (unit none) (value "WiFi Err"))
   (device 06958729-2486-4625-9456-ea4d310aa36c
    (variant 29602fed-a0ed-4c55-bec7-c976296f05dd)
   )
