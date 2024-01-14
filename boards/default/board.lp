@@ -86,7 +86,7 @@
   (stroke_text b4f2eba1-9b50-4409-a18e-f38d9013d337 (layer top_names)
    (height 1.0) (stroke_width 0.2) (letter_spacing auto) (line_spacing auto)
    (align center bottom) (position 5.715 46.88) (rotation 0.0)
-   (auto_rotate true) (mirror false) (lock false) (value "MQTT Err")
+   (auto_rotate true) (mirror false) (lock false) (value "{{LABEL}}")
   )
  )
  (device 2710f099-7b68-45ac-afce-b93f69e3676f
@@ -144,8 +144,8 @@
   )
   (stroke_text b4f2eba1-9b50-4409-a18e-f38d9013d337 (layer top_names)
    (height 1.0) (stroke_width 0.2) (letter_spacing auto) (line_spacing auto)
-   (align center bottom) (position 5.715 27.195) (rotation 0.0)
-   (auto_rotate true) (mirror false) (lock false) (value "Power")
+   (align center bottom) (position 5.715 26.56) (rotation 0.0)
+   (auto_rotate true) (mirror false) (lock false) (value "{{LABEL}}")
   )
  )
  (device b11e31a4-12c8-42dc-85b3-8765074712f1
@@ -244,8 +244,8 @@
   )
   (stroke_text c7760cc8-d15a-4fb2-874a-a6ab0f7679fa (layer top_names)
    (height 1.0) (stroke_width 0.2) (letter_spacing auto) (line_spacing auto)
-   (align center bottom) (position 5.715 37.355) (rotation 0.0)
-   (auto_rotate true) (mirror false) (lock false) (value "WiFi Err")
+   (align center bottom) (position 5.715 36.72) (rotation 0.0)
+   (auto_rotate true) (mirror false) (lock false) (value "{{LABEL}}")
   )
  )
  (netsegment 02453c8d-c34c-4276-8c09-1c9ad6c3536b
